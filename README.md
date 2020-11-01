@@ -1,2 +1,1 @@
-# tindog
-a recreational website
+TinDog Starting Files
